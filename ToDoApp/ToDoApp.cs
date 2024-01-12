@@ -14,6 +14,7 @@ namespace ToDoApp
             Console.ForegroundColor = ConsoleColor.Blue;
             Menus.StartUp();
             var on = true;
+
             do
             {
                 
